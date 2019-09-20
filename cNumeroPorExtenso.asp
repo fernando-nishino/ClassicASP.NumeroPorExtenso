@@ -1,6 +1,6 @@
 <%
 'Language: PT-BR
-'https://github.com/fernando-nishino/ClassicASP.Functions
+'https://github.com/fernando-nishino/ClassicASP.NumeroPorExtenso
 
 Response.CharSet = "utf-8"
 Class NumeroPorExtenso
